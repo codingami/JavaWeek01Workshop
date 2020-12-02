@@ -17,5 +17,5 @@
     * Control Flow
     * Conditionals
     * User input
-    * Object instantation/declaration
-    * Method invokation
+    * Object instantiation/declaration
+    * Method invocation

@@ -12,5 +12,5 @@
     * Conditionals
     * User input
     * The `Random` class
-    * Object instantation/declaration
-    * Method invokation
+    * Object instantiation/declaration
+    * Method invocation
